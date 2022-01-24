@@ -28,7 +28,7 @@
          ]
      },
      {
-         question: 'What is Capital of the USA?',
+         question: 'What is the Capital of the USA?',
          answers: [
              { text: 'Philladelphia', correct: false},
              { text: 'New York', correct: false},
